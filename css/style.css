@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.penguin-header {
+    background-color: #FFFBF0;
+}
+
+.penguin-navbar img {
+    width: 250px;
+}
+
+.text-highlight {
+    color: #FABE4C;
+}
+
+p {
+    color: #3E3E3E;
+}
+
+.penguin-button {
+    background-color: #A4BC46;
+}
+
+.jacket img {
+    height: 350px;
+    border-radius: 20px;
+}
+
+.jacket .card {
+    border-radius: 20px;
+}
+
+h2,
+h5 {
+    font-weight: 700;
+    color: #363958;
+}
+
+h5 {
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 48px;
+}
