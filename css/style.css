@@ -3,12 +3,16 @@
     padding: 0;
 }
 
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
 .penguin-header {
     background-color: #FFFBF0;
 }
 
 .penguin-navbar img {
-    width: 250px;
+    width: 200px;
 }
 
 .text-highlight {
@@ -38,10 +42,23 @@ h5 {
     color: #363958;
 }
 
+h1 {
+    font-family: 'Bebas Neue', cursive;
+}
+
 h5 {
     font-size: 24px;
 }
 
 h2 {
-    font-size: 48px;
+    font-size: 45px;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.service-logo {
+    width: 75px;
+}
+
+.penguin-button:hover {
+    background-color: goldenrod;
 }
